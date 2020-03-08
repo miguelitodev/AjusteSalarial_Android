@@ -8,4 +8,4 @@
 
 ## Ilustração:
 ### Tela principal
-<img src="./assets/img/print.jpg" width="35%"/>
+<img src="./assets/img/print.jpeg" width="35%"/>
