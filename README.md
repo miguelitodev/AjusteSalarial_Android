@@ -5,3 +5,7 @@
 ## Desenvolvedores:
   - Miguel Riquelme 
   - Gabriel Teodoro
+
+## Ilustração:
+### Tela principal
+<img src="./assets/img/print.jpg" width="35%"/>
